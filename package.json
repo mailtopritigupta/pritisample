@@ -1,0 +1,24 @@
+{
+  "name": "pritisample",
+  "version": "1.0.0",
+  "description": "demo perpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtopritigupta/pritisample.git"
+  },
+  "keywords": [
+    "priti",
+    "print",
+    "message"
+  ],
+  "author": "prti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailtopritigupta/pritisample/issues"
+  },
+  "homepage": "https://github.com/mailtopritigupta/pritisample#readme"
+}
